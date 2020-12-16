@@ -1,32 +1,32 @@
 {
 	"Cars":
 	[
-	  {	"CarName":"Supra", 
-		"CarMake":"Toyota", 
+	  {	"CarName":" 2021 TOYOTA SUPRA", 
+		"CarMake":"JAPANESE", 
 		"CarYear":"2021", 
 		"CarSpecs":"MSRP $54000 Horsepower: 336 ; Engine: 3.6L 6-cylinder; Curb weight: 3435bs; MPG: 23/city/ 25 highway", 
 		"CarImage":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2xl9BG5Fz0ydJR92NsZfIHE6_03V1u_crwhouY2Wl40Y3Zj-O", 
 		"CarSite":"http://www.carspecs.us"
 	 },
 	  
-	  {	"CarName":"WRX", 
-		"CarMake":"Subaru", 
+	  {	"CarName":"2020 SUBARU WRX", 
+		"CarMake":"JAPANESE", 
 		"CarYear":"2020", 
 		"CarSpecs":"MSRP $34223 Horsepower: 346 ; Engine: 3.6L 6-cylinder; Curb weight: 3346lbs; MPG: 25/city/ 26 highway", 
 		"CarImage":"https://media.ed.edmunds-media.com/subaru/wrx/2020/oem/2020_subaru_wrx_sedan_sti-serieswhite_fq_oem_2_815.jpg", 
 		"CarSite":"http://www.carspecs.us"
 	 },
 	  
-	  {	"CarName":"Skyline", 
-		"CarMake":"Nissan", 
+	  {	"CarName":"2019 NISSAN SKYLINE", 
+		"CarMake":"JAPANESE", 
 		"CarYear":"2019", 
 		"CarSpecs":"MSRP $52900 Horsepower: 275 ; Engine: 3.6L 6-cylinder; Curb weight: 3397lbs; MPG: 27/city/ 34 highway", 
 		"CarImage":"https://es.nissanusa.com/content/dam/Nissan/us/experience_nissan/newsevents/skyline-to-gt-r/2018-Nissan-GTR-in-black.jpg.ximg.l_6_m.smart.jpg",
 		"CarSite":"http://www.carspecs.us"
 	 }, 
 
-	  {	"CarName":"Camaro", 
-		"CarMake":"Chevrolet", 
+	  {	"CarName":"2020 CHEVROLET CAMARO", 
+		"CarMake":"AMERICAN", 
 		"CarYear":"2020", 
 		"CarSpecs":"MSRP $37288 Horsepower: 234 ; Engine: 3.6L 6-cylinder; Curb weight: 3343lbs; MPG: 29/city/ 34 highway", 
 		"CarImage":"https://i1.wp.com/www.musclecarsandtrucks.com/wp-content/uploads/2019/10/2020-Chevrolet-Camaro-ZL1-1LE-Configurator-3.jpg?fit=1161%2C627&ssl=1", 
